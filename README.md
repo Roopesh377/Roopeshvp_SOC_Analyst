@@ -58,6 +58,7 @@ Currently seeking opportunities as a **SOC Analyst L1 / Cybersecurity Analyst**.
 
 
 
+
 ---
 
 ### 🌐 Connect with Me
