@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I showcase my skills and hands-on experience in cy
 
 ## 📂 Featured Project
 
-- [Vulnerability Scanning with Nmap](https://github.com/Roopesh377/roopeshvp/tree/main/Vulnerability_Scanning_Nmap)  
+- [Vulnerability Scanning Using Nmap](https://github.com/Roopesh377/Vulnerability-Scanning-Nmap)  
   Comprehensive project demonstrating network vulnerability scanning techniques using Nmap, including commands, reports, and screenshots.
 
 ---
