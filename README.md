@@ -33,7 +33,7 @@ Currently seeking opportunities as a **SOC Analyst L1 / Cybersecurity Analyst**.
 - 🔹 [SIEM Log Analysis & Incident Detection](#)  
 - 🔹 [Phishing Email Investigation](#)  
 - 🔹 [PCAP Analysis & Network Forensics](#)  
-- 🔹 [Vulnerability Scanning Using Nmap](#)  
+- 🔹 [Vulnerability Scanning Using Nmap](#https://github.com/Roopesh377/roopeshvp/tree/main/Vulnerability_Scanning_Nmap)  
 
 ---
 
